@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2016-01-05T03:09:56.0000000+08:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <EncryptedPassword />
+    <_PublishTargetUrl>C:\inetpub\UBTZ</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.QualityTools.Testing.Fakes.dll">
+      <publishTime>10/05/2013 17:38:22</publishTime>
+    </File>
+    <File Include="bin/mscorlib.4.0.0.0.Fakes.fakesconfig">
+      <publishTime>04/08/2016 14:52:24</publishTime>
+    </File>
+    <File Include="bin/Oracle.DataAccess.dll">
+      <publishTime>05/29/2014 12:12:56</publishTime>
+    </File>
+    <File Include="bin/ServiceWebAplicacion.dll">
+      <publishTime>04/14/2018 14:26:16</publishTime>
+    </File>
+    <File Include="bin/System.4.0.0.0.Fakes.fakesconfig">
+      <publishTime>04/08/2016 14:52:23</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/13/2018 23:08:51</publishTime>
+    </File>
+    <File Include="WebService.asmx">
+      <publishTime>11/24/2015 14:21:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

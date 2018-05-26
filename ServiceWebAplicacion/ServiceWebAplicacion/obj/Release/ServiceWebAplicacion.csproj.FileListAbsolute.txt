@@ -1,0 +1,55 @@
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.dll.config
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.dll
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.pdb
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.dll
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.pdb
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\bin\npgsql.dll
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\bin\Mono.Security.dll
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\bin\mscorlib.4.0.0.0.Fakes.fakesconfig
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\bin\System.4.0.0.0.Fakes.fakesconfig
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Marpuush\Documents\Visual Studio 2013\Projects\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.csprojFakesResolveAssemblyReference.cache
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.dll.config
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.dll
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.pdb
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\mscorlib.4.0.0.0.Fakes.fakesconfig
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\System.4.0.0.0.Fakes.fakesconfig
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.csprojFakesResolveAssemblyReference.cache
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.dll
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.pdb
+C:\Users\Anka\Downloads\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\Oracle.DataAccess.dll
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.dll.config
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.dll
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.pdb
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\mscorlib.4.0.0.0.Fakes.fakesconfig
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\System.4.0.0.0.Fakes.fakesconfig
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\bin\Oracle.DataAccess.dll
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.csprojFakesResolveAssemblyReference.cache
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.dll
+C:\Users\ariunmunkh.e\OneDrive\ServiceWebAplicacion\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.pdb
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.dll.config
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.dll
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.pdb
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\mscorlib.4.0.0.0.Fakes.fakesconfig
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\System.4.0.0.0.Fakes.fakesconfig
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.csprojFakesResolveAssemblyReference.cache
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.dll
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.pdb
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.dll.config
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.dll
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\ServiceWebAplicacion.pdb
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\mscorlib.4.0.0.0.Fakes.fakesconfig
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\System.4.0.0.0.Fakes.fakesconfig
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\bin\Oracle.DataAccess.dll
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.csprojFakesResolveAssemblyReference.cache
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.dll
+C:\Users\Anka\OneDrive\Documents\Visual Studio\ServiceWebAplicacion\ServiceWebAplicacion\obj\Release\ServiceWebAplicacion.pdb
