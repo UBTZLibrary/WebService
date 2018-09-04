@@ -223,7 +223,7 @@ namespace ServiceWebAplicacion
                     }
                     else
                     {
-                        command.CommandText = " INSERT INTO TBLINDEX (INDEXCODE, USEDINDEX) VALUES ('" + tableName + "', (SELECT NVL(MAX(" + fieldName + "), 0) + 1 FROM " + tableName + ")) ";
+                        command.CommandText = " INSERT INTO TBLINDEX (INDEXCODE, USEDINDEX) VALUES ('" + tableName + "', (SELECT ISNULL(MAX(" + fieldName + "), 0) + 1 FROM " + tableName + ")) ";
                         command.ExecuteNonQuery();
                         command.CommandText = "SELECT USEDINDEX FROM TBLINDEX WHERE UPPER(INDEXCODE) = UPPER('" + tableName + "')";
                         dr = command.ExecuteReader();
